@@ -1,7 +1,7 @@
 const models = {
-    userModel: require('./nosql/UserModel'),
-    pixelsModel: require('./nosql/PixelsModel'),
-    chatModel: require('./nosql/ChatModel')
+    userModel: require('./nosql/users'),
+    pixelModel: require('./nosql/pixel'),
+    chatModel: require('./nosql/chat')
 
   }
   
